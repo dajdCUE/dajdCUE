@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dajdCUE
+- I'm telecomunications engineering student.
+- 👀 I’m interested in Flutter
