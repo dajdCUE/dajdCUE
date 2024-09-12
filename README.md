@@ -14,6 +14,8 @@ Graduado en la Universidad de Castilla-La Mancha con menciones en Sistemas de te
 ### 🛠 Habilidades Técnicas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat-square&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -30,14 +32,17 @@ Graduado en la Universidad de Castilla-La Mancha con menciones en Sistemas de te
 
 ### 🏗 Proyectos Destacados
 
-1. **UCLM Encuestas**
+1. **Generación de informe de diagnóstico en una red de comunicaciones móviles mediante inteligencia artificial**
+   - Trabajo Fin de Grado para Telefónica
+   - Tecnologías: Python, Machine Learning, Azure
+
+2. **UCLM Encuestas**
    - Aplicación web de recogida de encuestas
    - Tecnologías: Flutter, Dart, Base de datos
 
-2. **VitalScope Web**
+3. **VitalScope Web**
    - Aplicación web para identificar problemas cardíacos
    - Tecnologías: Web, Docker, Base de datos, Autenticación
-
 ### 🌐 Idiomas
 
 - 🇪🇸 Español: Nativo
