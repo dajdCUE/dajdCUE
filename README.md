@@ -43,7 +43,7 @@ Graduado en la Universidad de Castilla-La Mancha con menciones en Sistemas de te
    - Tecnologías: Flutter, Dart, Base de datos
 
 3. **VitalScope Web**
-   - Aplicación web para identificar problemas cardíacos
+   - Aplicación web de visualización de datos cardíacos.
    - Tecnologías: Web, Docker, Base de datos, Autenticación
 ### 🌐 Idiomas
 
